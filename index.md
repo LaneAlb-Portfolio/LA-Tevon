@@ -31,6 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LaneAlb-Portfolio/LA-Tevon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Links to other websites, sources all related to me!
-- Repl-it: https://repl.it/@LaneA
+- Repl-it: [https://repl.it/@LaneA](url)
 - School Slideshows and Videos: https://www.youtube.com/playlist?list=PL2zwCS9-Xb78bxLGmZdc5EufGa5yV0184
 - Wag.io (A list of Addons/Weakauras that were design by or taken and altered by me): https://wago.io/p/Tevonsonte
