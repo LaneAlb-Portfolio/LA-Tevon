@@ -5,8 +5,8 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 ## Game Projects
 
 #### Game Project 1 *Title*
-- [Github Repository Clone](https://github.com/LaneAlb-Portfolio/Game-Project-1)
-- [Specific Contribution Write-Up]()
+-- [Github Repository Clone](https://github.com/LaneAlb-Portfolio/Game-Project-1)
+-- [Specific Contribution Write-Up]()
 
 ### Links to other websites, sources all related to me!
 - Repl-it: [Repl-it LaneA](https://repl.it/@LaneA)
