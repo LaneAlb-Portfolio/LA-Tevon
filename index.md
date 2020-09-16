@@ -33,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Links to other websites, sources all related to me!
 - Repl-it: [https://repl.it/@LaneA](https://repl.it/@LaneA)
 - School Slideshows and Videos: [https://www.youtube.com/playlist?list=PL2zwCS9-Xb78bxLGmZdc5EufGa5yV0184](https://www.youtube.com/playlist?list=PL2zwCS9-Xb78bxLGmZdc5EufGa5yV0184)
-- Wag.io (A list of Addons/Weakauras that were design by or taken and altered by me): [https://wago.io/p/Tevonsonte](https://wago.io/p/Tevonsonte)
+- Wag.io (A list of Addons a.k.a "Weakauras" for World of Warcraft that were designed by or taken and altered by me): [https://wago.io/p/Tevonsonte](https://wago.io/p/Tevonsonte)
