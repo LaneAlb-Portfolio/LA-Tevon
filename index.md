@@ -10,6 +10,7 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 
 ### Links to other websites, sources all related to me!
 - Repl-it: [Repl-it LaneA](https://repl.it/@LaneA)
+- Itch.io (A Game Hosting Website): [My Profile](https://tevlane.itch.io/)
 - School Slideshows and Videos: [Youtube Playlist](https://www.youtube.com/playlist?list=PL2zwCS9-Xb78bxLGmZdc5EufGa5yV0184)
 - Wag.io (A list of Addons a.k.a "Weakauras" for World of Warcraft that were designed by or taken and altered by me): [Wago.io Profile](https://wago.io/p/Tevonsonte)
 
