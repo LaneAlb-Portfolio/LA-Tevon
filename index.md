@@ -17,9 +17,3 @@ To Do List:
 - [ ] Add a playable link to games created
 - [x] Github pages to the code for games created / repositories
 - [ ] Make it interesting
-
-```markdown
-Will Delete Below
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[Link](url) and ![Image](src)
-```
