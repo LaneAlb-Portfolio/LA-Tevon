@@ -4,13 +4,20 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 
 ## Game Projects
 
-#### Game Project 1 *Title*
+#### C++ Pong Game
+- [Github Repository Clone](https://github.com/LaneAlb-Portfolio/CS10-Pong-Game)
+
+#### Game Project 1 *Untitled Maze Game*
 - [Github Repository Clone](https://github.com/LaneAlb-Portfolio/Game-Project-1)
 - [Specific Contribution Write-Up](https://lanealb-portfolio.github.io/Lane-Albrecht-GP1/)
 
+#### Mors Certatio *WIP*
+- [Script Backups](https://github.com/LaneAlb-Portfolio/Work-In-Progress-Game-Project-2)
+- [Zipped Unity Build 1](https://drive.google.com/file/d/1i5kM2eyqRKDMZZHv1xP8Scx4i5lJjI2I/view?usp=sharing)
+
 ### Links to other websites, sources all related to me!
 - Repl-it: [Repl-it LaneA](https://repl.it/@LaneA)
-- Itch.io (A Game Hosting Website): [My Profile](https://tevlane.itch.io/)
+- Itch.io: [My Games](https://tevlane.itch.io/)
 - Wag.io (Website Host for personally designed Addons for World of Warcraft): [Wago.io Profile](https://wago.io/p/Tevonsonte)
 
 To Do List:
