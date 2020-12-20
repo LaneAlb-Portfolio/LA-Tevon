@@ -1,4 +1,3 @@
-# Currently a WIP!
 ## Lane Albrecht
 I somehow enjoy coding and hopefully will be able to throw together coding and my hobby of video games in the future.
 
