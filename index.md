@@ -6,9 +6,10 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 #### C++ Pong Game
 - [Github Repository Clone](https://github.com/LaneAlb-Portfolio/CS10-Pong-Game)
 
-#### Game Project 1 *Untitled Maze Game*
+#### Untitled Maze Game
 - [Github Repository Clone](https://github.com/LaneAlb-Portfolio/Game-Project-1)
 - [Specific Contribution Write-Up](https://lanealb-portfolio.github.io/Lane-Albrecht-GP1/)
+- [Zipped Final Build](https://drive.google.com/file/d/1AreuduKQGDoQRxlGhmM8xUZ3Sk3X-txi/view?usp=sharing)
 
 #### Mors Certatio *WIP*
 - [Script Backups](https://github.com/LaneAlb-Portfolio/Work-In-Progress-Game-Project-2)
@@ -20,6 +21,6 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 - Wag.io (Website Host for personally designed Addons for World of Warcraft): [Wago.io Profile](https://wago.io/p/Tevonsonte)
 
 To Do List:
-- [ ] Add a playable link to games created
+- [ ] Add single exe for games created for ease of access
 - [x] Github pages to the code for games created / repositories
 - [ ] Make it interesting
