@@ -16,7 +16,7 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 - [Zipped Unity Build 1](https://drive.google.com/file/d/1i5kM2eyqRKDMZZHv1xP8Scx4i5lJjI2I/view?usp=sharing)
 
 ### Links to other websites, sources all related to me!
-- Repl-it: [Repl-it LaneA](https://repl.it/@LaneA)
+- Repl-it: [Python Practice](https://repl.it/@LaneA)
 - Itch.io: [My Games](https://tevlane.itch.io/)
 - Wag.io (Website Host for personally designed Addons for World of Warcraft): [Wago.io Profile](https://wago.io/p/Tevonsonte)
 
