@@ -18,7 +18,7 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 ### Links to other websites, sources all related to me!
 - Repl-it: [Python Practice](https://repl.it/@LaneA)
 - Itch.io: [My Games](https://tevlane.itch.io/)
-- Wag.io (Website Host for personally designed Addons for World of Warcraft): [Wago.io Profile](https://wago.io/p/Tevonsonte)
+- Wag.io (Website Host for personally designed Addons/Weakauras for World of Warcraft): [Wago.io Profile](https://wago.io/p/Tevonsonte)
 
 To Do List:
 - [ ] Add single exe for games created for ease of access
