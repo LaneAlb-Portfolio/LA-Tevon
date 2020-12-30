@@ -22,7 +22,7 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 - [Zipped Unity Build 1](https://drive.google.com/file/d/1i5kM2eyqRKDMZZHv1xP8Scx4i5lJjI2I/view?usp=sharing)
 - [Playtest 1 Gameplay](https://youtu.be/XR9WDVNJ0fo)
 
- _________________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________________
 
 ### Links to other websites, sources all related to me!
 - Repl-it: [Python Practice](https://repl.it/@LaneA)
