@@ -12,7 +12,7 @@ I somehow enjoy coding and hopefully will be able to throw together coding and m
 - [Github Repository Clone](https://github.com/LaneAlb-Portfolio/Game-Project-1)
 - [Specific Contribution Write-Up](https://lanealb-portfolio.github.io/Lane-Albrecht-GP1/)
 - [Zipped Final Build](https://drive.google.com/file/d/1AreuduKQGDoQRxlGhmM8xUZ3Sk3X-txi/view?usp=sharing)
-
+- Gameplay Footage Below
 [![Img Volcano](https://raw.githubusercontent.com/LaneAlb-Portfolio/Lane-Albrecht-Portfolio/gh-pages/portfolio%20untitiled%20maze%20game%20ss.PNG)](https://youtu.be/tyq9bG7xSWM)
 
  _________________________________________________________________________________________________________________________________________________________________________________
